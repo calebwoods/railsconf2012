@@ -42,12 +42,12 @@ Slides at https://github.com/steveklabnik/hypermedia-presentation
 
 1. Evaluate Business Process
 2. Create State Machine
-** dot language
+  * dot language
 3. Eveluate Media Type needs
-** build a format on top of JSON (Collection + JSON, HAL are the popular ones)
+  * build a format on top of JSON (Collection + JSON, HAL are the popular ones)
 4. Create Media Types
-** data elements
-** how does it link
+  * data elements
+  * how does it link
 5. Implement
 
 ### Links
